@@ -32,9 +32,19 @@
 .banner h1 {
     text-align: center;
     padding: 5px;
-    color: rgb(158, 38, 38);
+    color: olive;
 }
 .text {
-    padding-top: 130px;
+    padding-top: 150px;
     font-size: 17px;
+}
+.section1 {
+    display: flex;
+
+}
+.section {
+    width: 50%;
+    background-color: rgb(73, 6, 6);
+    color: white;
+    padding: 10px;
 }
