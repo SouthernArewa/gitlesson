@@ -27,11 +27,11 @@
 }
 .banner {
     background-image: url(images/img2.jpg);
-    color: rgb(143, 42, 42);
     height: 300px;
 }
 .banner h1 {
     text-align: center;
-    padding: 10px;
-    margin: 50px;
+    padding: 5px;
+    color: olive;
+    
 }
