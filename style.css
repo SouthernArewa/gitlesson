@@ -32,6 +32,9 @@
 .banner h1 {
     text-align: center;
     padding: 5px;
-    color: olive;
-    
+    color: rgb(158, 38, 38);
+}
+.text {
+    padding-top: 130px;
+    font-size: 17px;
 }
